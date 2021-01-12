@@ -1,13 +1,36 @@
 # AirportItwm-Itlwm
 
+## AirportItlwm `Beta`
+
+1. Supports all itlwm-supported devices.
+2. Supports native Wi-Fi selection and switching with WPA/WPA2/Unencrypted Wi-Fi Networks.
+3. Supports Location Services.
+4. Handoff and Universal Clipboard perfectly supported.
+
+## ItLwm
+1. Merged itlwmx to itlwm, itlwmx is now deprecated.
+2. Compressed firmware files, reduced itlwm size to <b>9.9 MB</b>.
+3. Resolved an issue that causes the system to become unresponsive when uploading with P2P software.
+
+A single <i>itlwm.kext</i> supports all the previously supported devices.
+
+itlwm still needs to be used with [Heliport](https://github.com/OpenIntelWireless/HeliPort) and provides support for `macOS 10.12` and above systems.
+
 
 ## Intel WiFi Driver for Hackintosh
-Only Catalina - Big Sur:
+<b>Only Catalina - Big Sur:</b>
 * [Clover](https://github.com/CloverHackyColor/CloverBootloader/releases): Kext to /EFI/Clover/Kext/Other (unsupported Catalina)
-* Disable SIP & install AirportItlwm into /Library/Extensions "With Hackintool" & rebuild kext cache then reboot (use AirportItlwm Catalina and install [Hackintool.app](https://github.com/headkaze/Hackintool/releases))
+* Disable SIP and install AirportItlwm into `/Library/Extensions` "With Hackintool" & rebuild kext cache then reboot. (use AirportItlwm Catalina and install [Hackintool.app](https://github.com/headkaze/Hackintool/releases))
 
-Note :
-The kexts can be installed to /Library/Extensions with System Integrity Protection disabled (Terminal type: csrutil disable)
+<b>Note:</b>
+The kexts can be installed to `/Library/Extensions` with System Integrity Protection disabled (Terminal type: `csrutil disable`)
+
+<b>Bootloader Compatibility</b>
+
+<b>Note:</b><br/>
+* [OpenCore](https://github.com/acidanthera/OpenCorePkg/releases) requires 0.6.1 or higher. Please read OpenCore's Official Document for more details.
+
+Set `SecureBootModel` to `Default` to make sure IO80211Family loads properly.
 * [OpenCore](https://github.com/acidanthera/OpenCorePkg/releases): Kext to /EFI/OC/Kexts (both AirportItlwm Big Sur/Catalina)
 
 <h2 align="left" >Supported Intel WiFi Cards by itlwm</h2>
