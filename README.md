@@ -49,7 +49,7 @@ Set `SecureBootModel` to `Default` to make sure IO80211Family loads properly.
 <br/>
 
 You can download latest kext.
-* [kext Big Sur v1.2.0-Debug-Alpha](https://drive.google.com/file/d/1DpR2DpiEN1TVN_JBgOiu82G_5XAE5td3/view?usp=sharing) Update Jan-11-2021
+* [kext Big Sur v1.2.0-Debug-Alpha](https://drive.google.com/file/d/1fh2zFdO-3H0mU_mpnucn0lk3Yu-1pSi4/view?usp=sharing) Update Jan-14-2021
 * [kext Catalina v1.2.0-Debug-Alpha](https://drive.google.com/file/d/1C2Yng6EUYoDtOAtDkgjtPTboopt03YZt/view?usp=sharing) Update Jan-11-2021
 * [HeliPort.app](https://github.com/OpenIntelWireless/HeliPort) copy to `Application` and check `Launch At Login`
 
