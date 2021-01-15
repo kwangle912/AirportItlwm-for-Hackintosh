@@ -36,6 +36,8 @@ Set `SecureBootModel` to `Default` to make sure IO80211Family loads properly.
 <h2 align="left" >Supported Intel WiFi Cards by itlwm</h2>
 <br/>
 
+- Intel Centrino Wireless-N network devices
+- `100/105/135/1000/2000/2030/4965/5000/5150/6000/6005/6030/6050`
 - 2000: `Supported`
 - 3xxx: `AC 3160`, `AC 3165`, `AC 3168`
 - 4xxx: `AC 4165`
@@ -43,7 +45,10 @@ Set `SecureBootModel` to `Default` to make sure IO80211Family loads properly.
 - 8xxx: `AC 8260`
 - 9xxx：`AC 9260`,`AC 9461`, `AC 9462`, `AC 9560`
 - 22000：`ax200`, `ax201`, `AC 9462`
+- AX: `1650S`
+- AX: `200`, `201`
 - [Supported Devices](https://openintelwireless.github.io/itlwm/Compat.html)
+- Supported macOS: High Sierra 10.13.x, Mojave 10.14.x, Catalina 10.15.x, Big Sur 11.x
 
 <h2 align="left" >Download kext</h2>
 <br/>
