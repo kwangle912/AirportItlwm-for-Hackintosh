@@ -23,7 +23,7 @@ itlwm still needs to be used with [Heliport](https://github.com/OpenIntelWireles
 * Disable SIP and install AirportItlwm into `/Library/Extensions` "With Hackintool" & rebuild kext cache then reboot. (use AirportItlwm Catalina and install [Hackintool.app](https://github.com/headkaze/Hackintool/releases))
 
 <b>Note:</b>
-The kexts can be installed to `/Library/Extensions` with System Integrity Protection disabled (Terminal type: `csrutil disable`)
+The kexts can be installed to `/Library/Extensions` with System Integrity Protection disabled (Terminal type: `csrutil disable`on Recovery OS)
 
 <b>Bootloader Compatibility</b>
 
@@ -49,16 +49,16 @@ Set `SecureBootModel` to `Default` to make sure IO80211Family loads properly.
 <br/>
 
 <b>You can download latest kext.</b>
-<br/>
-Debug:
-* [Big Sur v1.2.0-Debug-Alpha](https://drive.google.com/file/d/1fh2zFdO-3H0mU_mpnucn0lk3Yu-1pSi4/view?usp=sharing) Update Jan-14-2021
-* [Catalina v1.2.0-Debug-Alpha](https://drive.google.com/file/d/1C2Yng6EUYoDtOAtDkgjtPTboopt03YZt/view?usp=sharing) Update Jan-11-2021
-* [Big Sur v1.3.0-Debug-Alpha](https://drive.google.com/file/d/1K8p1WeeQAbpuWaqYFYzlv_4rl_rhA0R_/view?usp=sharing) Update Jan-15-2021
+Debug Version v1.2.0
+* [Big Sur](https://drive.google.com/file/d/1fh2zFdO-3H0mU_mpnucn0lk3Yu-1pSi4/view?usp=sharing) Update Jan-14-2021
+* [Catalina](https://drive.google.com/file/d/1C2Yng6EUYoDtOAtDkgjtPTboopt03YZt/view?usp=sharing) Update Jan-11-2021
 
-Stable:
+Debug Version 1.3.0
+* [Big Sur](https://drive.google.com/file/d/1K8p1WeeQAbpuWaqYFYzlv_4rl_rhA0R_/view?usp=sharing) Update Jan-15-2021
 
-* [Big Sur v1.2.0-Stable](https://drive.google.com/file/d/1MCHizCV-2uc_ck5wsu7f5VpFZA-yXgaW/view?usp=sharing) Update Jan-15-2021
-* [Catalina v1.2.0-Stable](https://drive.google.com/file/d/1wFHnwUiy7Nyr1mM_PxtOjm0gB3w5TQ2q/view?usp=sharing) Update Jan-15-2021
+Stable Version
+* [v1.2.0-Big Sur](https://drive.google.com/file/d/1MCHizCV-2uc_ck5wsu7f5VpFZA-yXgaW/view?usp=sharing) Update Jan-15-2021
+* [v1.2.0-Catalina](https://drive.google.com/file/d/1wFHnwUiy7Nyr1mM_PxtOjm0gB3w5TQ2q/view?usp=sharing) Update Jan-15-2021
 
 Install Heliport.dmg:
 * [HeliPort.app](https://github.com/OpenIntelWireless/HeliPort) copy to `Application` and check `Launch At Login`
