@@ -7,7 +7,7 @@
 3. Supports Location Services.
 4. Handoff and Universal Clipboard perfectly supported.
 
-## ItLwm
+## Itlwm
 1. Merged itlwmx to itlwm, itlwmx is now deprecated.
 2. Compressed firmware files, reduced itlwm size to <b>9.9 MB</b>.
 3. Resolved an issue that causes the system to become unresponsive when uploading with P2P software.
@@ -48,9 +48,19 @@ Set `SecureBootModel` to `Default` to make sure IO80211Family loads properly.
 <h2 align="left" >Download kext</h2>
 <br/>
 
-You can download latest kext.
-* [kext Big Sur v1.2.0-Debug-Alpha](https://drive.google.com/file/d/1fh2zFdO-3H0mU_mpnucn0lk3Yu-1pSi4/view?usp=sharing) Update Jan-14-2021
-* [kext Catalina v1.2.0-Debug-Alpha](https://drive.google.com/file/d/1C2Yng6EUYoDtOAtDkgjtPTboopt03YZt/view?usp=sharing) Update Jan-11-2021
+<b>You can download latest kext.</b>
+<br/>
+Debug:
+* [Big Sur v1.2.0-Debug-Alpha](https://drive.google.com/file/d/1fh2zFdO-3H0mU_mpnucn0lk3Yu-1pSi4/view?usp=sharing) Update Jan-14-2021
+* [Catalina v1.2.0-Debug-Alpha](https://drive.google.com/file/d/1C2Yng6EUYoDtOAtDkgjtPTboopt03YZt/view?usp=sharing) Update Jan-11-2021
+* [Big Sur v1.3.0-Debug-Alpha](https://drive.google.com/file/d/1K8p1WeeQAbpuWaqYFYzlv_4rl_rhA0R_/view?usp=sharing) Update Jan-15-2021
+
+Stable:
+
+* [Big Sur v1.2.0-Stable](https://drive.google.com/file/d/1MCHizCV-2uc_ck5wsu7f5VpFZA-yXgaW/view?usp=sharing) Update Jan-15-2021
+* [Catalina v1.2.0-Stable](https://drive.google.com/file/d/1wFHnwUiy7Nyr1mM_PxtOjm0gB3w5TQ2q/view?usp=sharing) Update Jan-15-2021
+
+Install Heliport.dmg:
 * [HeliPort.app](https://github.com/OpenIntelWireless/HeliPort) copy to `Application` and check `Launch At Login`
 
 <h2 align="left" >Credits</h2>
