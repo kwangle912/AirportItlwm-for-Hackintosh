@@ -59,8 +59,8 @@ Debug Version v1.2.0
 * [Catalina](https://drive.google.com/file/d/1C2Yng6EUYoDtOAtDkgjtPTboopt03YZt/view?usp=sharing) Update Jan-11-2021
 
 Debug Version 1.3.0
-* [Big Sur](https://drive.google.com/file/d/1WQANbiURq2wMEi40eWQniXGzCrlHqiwR/view?usp=sharing) Update Jan-31-2021
-* [Catalina](https://drive.google.com/file/d/1hghH2YoPu3AwdbPblpDaPQyqr7taZPhW/view?usp=sharing) Update Jan-31-2021
+* [Big Sur](https://drive.google.com/file/d/17wYPNDDCO64m87mUkSDozUm3yUX7d4mY/view?usp=sharing) Update Feb-02-2021
+* [Catalina](https://drive.google.com/file/d/1Rh5zbiJzvhhLRG7jE6UGotRNGHPNcHo1/view?usp=sharing) Update Feb-02-2021
 
 Stable Version
 * [v1.2.0-Big Sur](https://drive.google.com/file/d/1MCHizCV-2uc_ck5wsu7f5VpFZA-yXgaW/view?usp=sharing) Update Jan-15-2021
