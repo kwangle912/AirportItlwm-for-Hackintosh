@@ -55,16 +55,16 @@ Set `SecureBootModel` to `Default` to make sure IO80211Family loads properly.
 
 <b>You can download latest kext.</b>
 Debug Version v1.2.0
-* [Big Sur](https://drive.google.com/file/d/1fh2zFdO-3H0mU_mpnucn0lk3Yu-1pSi4/view?usp=sharing) Update Jan-14-2021
-* [Catalina](https://drive.google.com/file/d/1C2Yng6EUYoDtOAtDkgjtPTboopt03YZt/view?usp=sharing) Update Jan-11-2021
+* Update Jan-14-2021 - [Big Sur](https://drive.google.com/file/d/1fh2zFdO-3H0mU_mpnucn0lk3Yu-1pSi4/view?usp=sharing)
+* Update Jan-11-2021 - [Catalina](https://drive.google.com/file/d/1C2Yng6EUYoDtOAtDkgjtPTboopt03YZt/view?usp=sharing)
 
 Debug Version 1.3.0
-* [Big Sur](https://drive.google.com/file/d/17wYPNDDCO64m87mUkSDozUm3yUX7d4mY/view?usp=sharing) Update Feb-02-2021
-* [Catalina](https://drive.google.com/file/d/1Rh5zbiJzvhhLRG7jE6UGotRNGHPNcHo1/view?usp=sharing) Update Feb-02-2021
+* Update Feb-05-2021 - [Big Sur](https://drive.google.com/file/d/1O2MTrVrS4X8KApSUVwN1zfnoAD2TTmlt/view?usp=sharing)
+* Update Feb-05-2021 - [Catalina](https://drive.google.com/file/d/12NUFxI2tAoO4eYtLcRMCfrerGuc5jnAc/view?usp=sharing)
 
 Stable Version
-* [v1.2.0-Big Sur](https://drive.google.com/file/d/1MCHizCV-2uc_ck5wsu7f5VpFZA-yXgaW/view?usp=sharing) Update Jan-15-2021
-* [v1.2.0-Catalina](https://drive.google.com/file/d/1wFHnwUiy7Nyr1mM_PxtOjm0gB3w5TQ2q/view?usp=sharing) Update Jan-15-2021
+* Update Jan-15-2021 - [v1.2.0-Big Sur](https://drive.google.com/file/d/1MCHizCV-2uc_ck5wsu7f5VpFZA-yXgaW/view?usp=sharing)
+* Update Jan-15-2021 - [v1.2.0-Catalina](https://drive.google.com/file/d/1wFHnwUiy7Nyr1mM_PxtOjm0gB3w5TQ2q/view?usp=sharing)
 
 Install Heliport.dmg:
 * [HeliPort.app](https://github.com/OpenIntelWireless/HeliPort) copy to `Application` and check `Launch At Login`
