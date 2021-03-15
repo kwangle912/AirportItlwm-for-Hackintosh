@@ -59,8 +59,8 @@ Debug Version v1.2.0
 * Update Jan-11-2021 - [Catalina](https://drive.google.com/file/d/1C2Yng6EUYoDtOAtDkgjtPTboopt03YZt/view?usp=sharing)
 
 Debug Version 1.3.0
-* Update Mar-14-2021 - [Big Sur](https://github.com/kwangle912/AirportItlwm-for-Hackintosh/releases/download/v20210314/AirportItlwm-BigSur-v130-debug-Mar-14.zip)
-* Update Mar-14-2021 - [Catalina](https://github.com/kwangle912/AirportItlwm-for-Hackintosh/releases/download/v20210314/AirportItlwm-Catalina-v130-debug-Mar-14.zip)
+* Update Mar-15-2021 - [Big Sur](https://github.com/kwangle912/AirportItlwm-for-Hackintosh/releases/download/v20210315/AirportItlwm-BigSur-v130-debug-Mar-15.zip)
+* Update Mar-14-2021 - [Catalina](https://github.com/kwangle912/AirportItlwm-for-Hackintosh/releases/download/v20210315/AirportItlwm-Catalina-v130-debug-Mar-14.zip)
 
 Stable Version
 * Update Jan-15-2021 - [v1.2.0-Big Sur](https://drive.google.com/file/d/1MCHizCV-2uc_ck5wsu7f5VpFZA-yXgaW/view?usp=sharing)
