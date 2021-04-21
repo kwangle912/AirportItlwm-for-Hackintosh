@@ -78,6 +78,10 @@ Stable Version v1.3.0
 * Update Apr-20-2021 - [v1.3.0-Big Sur](https://github.com/kwangle912/AirportItlwm-for-Hackintosh/releases/download/v20210420/AirportItlwm-v130-stable-Catalina.kext.zip)
 * Update Apr-20-2021 - [v1.3.0-Catalina](https://github.com/kwangle912/AirportItlwm-for-Hackintosh/releases/download/v20210420/AirportItlwm-v130-stable-BigSur.kext.zip)
 
+Debug Version 2.0.0
+* Update Apr-20-2021 - [Big Sur](https://github.com/kwangle912/AirportItlwm-for-Hackintosh/releases/download/v20210421/AirportItlwm-BigSur-v200-Apr-20.zip)
+* Update Apr-20-2021 - [Catalina](https://github.com/kwangle912/AirportItlwm-for-Hackintosh/releases/download/v20210421/AirportItlwm-Catalina-v200-debug-Apr-20.zip)
+
 
 Install Heliport.dmg:
 * [HeliPort.app](https://github.com/OpenIntelWireless/HeliPort) copy to `Application` and check `Launch At Login`
