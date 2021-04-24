@@ -62,25 +62,25 @@ You should NEVER use both `itlwm.kext` and `Airportitlwm.kext` at the same time.
 
 <b>You can download latest kext.</b>
 
-Debug Version v1.2.0
+Debug Version 1.2.0
 * Update Jan-14-2021 - [Big Sur](https://drive.google.com/file/d/1fh2zFdO-3H0mU_mpnucn0lk3Yu-1pSi4/view?usp=sharing)
 * Update Jan-11-2021 - [Catalina](https://drive.google.com/file/d/1C2Yng6EUYoDtOAtDkgjtPTboopt03YZt/view?usp=sharing)
 
-Stable Version v1.2.0
-* Update Jan-15-2021 - [v1.2.0-Big Sur](https://drive.google.com/file/d/1MCHizCV-2uc_ck5wsu7f5VpFZA-yXgaW/view?usp=sharing)
-* Update Jan-15-2021 - [v1.2.0-Catalina](https://drive.google.com/file/d/1wFHnwUiy7Nyr1mM_PxtOjm0gB3w5TQ2q/view?usp=sharing)
+Stable Version 1.2.0
+* Update Jan-15-2021 - [Big Sur](https://drive.google.com/file/d/1MCHizCV-2uc_ck5wsu7f5VpFZA-yXgaW/view?usp=sharing)
+* Update Jan-15-2021 - [Catalina](https://drive.google.com/file/d/1wFHnwUiy7Nyr1mM_PxtOjm0gB3w5TQ2q/view?usp=sharing)
 
 Debug Version 1.3.0
 * Update Mar-15-2021 - [Big Sur](https://github.com/kwangle912/AirportItlwm-for-Hackintosh/releases/download/v20210315/AirportItlwm-BigSur-v130-debug-Mar-15.zip)
 * Update Mar-14-2021 - [Catalina](https://github.com/kwangle912/AirportItlwm-for-Hackintosh/releases/download/v20210315/AirportItlwm-Catalina-v130-debug-Mar-14.zip)
 
-Stable Version v1.3.0
-* Update Apr-20-2021 - [v1.3.0-Big Sur](https://github.com/kwangle912/AirportItlwm-for-Hackintosh/releases/download/v20210420/AirportItlwm-v130-stable-Catalina.kext.zip)
-* Update Apr-20-2021 - [v1.3.0-Catalina](https://github.com/kwangle912/AirportItlwm-for-Hackintosh/releases/download/v20210420/AirportItlwm-v130-stable-BigSur.kext.zip)
+Stable Version 1.3.0
+* Update Apr-20-2021 - [Big Sur](https://github.com/kwangle912/AirportItlwm-for-Hackintosh/releases/download/v20210420/AirportItlwm-v130-stable-BigSur.kext.zip)
+* Update Apr-20-2021 - [Catalina](https://github.com/kwangle912/AirportItlwm-for-Hackintosh/releases/download/v20210420/AirportItlwm-v130-stable-Catalina.kext.zip)
 
 Debug Version 2.0.0
-* Update Apr-20-2021 - [Big Sur](https://github.com/kwangle912/AirportItlwm-for-Hackintosh/releases/download/v20210421/AirportItlwm-BigSur-v200-Apr-20.zip)
-* Update Apr-20-2021 - [Catalina](https://github.com/kwangle912/AirportItlwm-for-Hackintosh/releases/download/v20210421/AirportItlwm-Catalina-v200-debug-Apr-20.zip)
+* Update Apr-20-2021 - [Big Sur](https://github.com/kwangle912/AirportItlwm-for-Hackintosh/releases/download/v20210424/AirportItlwm-BigSur-v200-debug-Apr-24.zip)
+* Update Apr-20-2021 - [Catalina](https://github.com/kwangle912/AirportItlwm-for-Hackintosh/releases/download/v20210424/AirportItlwm-Catalina-v200-debug-Apr-24.zip)
 
 
 Install Heliport.dmg:
