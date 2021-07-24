@@ -79,9 +79,9 @@ Stable Version 1.3.0
 - Update Apr-20-2021 - [Catalina](https://github.com/kwangle912/AirportItlwm-for-Hackintosh/releases/download/v20210420/AirportItlwm-v130-stable-Catalina.kext.zip)
 
 Debug Version 2.0.0
-- Update July-03-2021 - [Catalina](https://github.com/kwangle912/AirportItlwm-for-Hackintosh/releases/download/v20210703/AirportItlwm-Catalina-v200-debug-July-03.zip)
-- Update July-03-2021 - [Big Sur](https://github.com/kwangle912/AirportItlwm-for-Hackintosh/releases/download/v20210703/AirportItlwm-BigSur-v200-debug-July-03.zip)
-- Update July-03-2021 - [Monterey](https://github.com/kwangle912/AirportItlwm-for-Hackintosh/releases/download/v20210703/AirportItlwm-Monterey-v200-debug-July-03.zip)
+- Update July-24-2021 - [Catalina](https://github.com/kwangle912/AirportItlwm-for-Hackintosh/releases/download/v20210724/AirportItlwm-Catalina-v200-debug-July-24.zip)
+- Update July-24-2021 - [Big Sur](https://github.com/kwangle912/AirportItlwm-for-Hackintosh/releases/download/v20210724/AirportItlwm-BigSur-v200-debug-July-24.zip)
+- Update July-24-2021 - [Monterey](https://github.com/kwangle912/AirportItlwm-for-Hackintosh/releases/download/v20210724/AirportItlwm-Monterey-v200-debug-July-24.zip)
 
 Stable Version 2.0.0 `Coming soon`
 
