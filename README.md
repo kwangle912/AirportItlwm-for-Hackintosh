@@ -79,15 +79,15 @@ Stable Version 1.3.0
 - Update Apr-20-2021 - [Catalina](https://github.com/kwangle912/AirportItlwm-for-Hackintosh/releases/download/v20210420/AirportItlwm-v130-stable-Catalina.kext.zip)
 
 Debug Version 2.0.0
-- Update July-27-2021 - [Catalina](https://github.com/kwangle912/AirportItlwm-for-Hackintosh/releases/download/v20210727/AirportItlwm-Catalina-v200-debug-July-27.zip)
-- Update July-27-2021 - [Big Sur](https://github.com/kwangle912/AirportItlwm-for-Hackintosh/releases/download/v20210727/AirportItlwm-BigSur-v200-debug-July-27.zip)
-- Update July-27-2021 - [Monterey](https://github.com/kwangle912/AirportItlwm-for-Hackintosh/releases/download/v20210727/AirportItlwm-Monterey-v200-debug-July-27.zip)
+- Update Aug-01-2021 - [Catalina](https://github.com/kwangle912/AirportItlwm-for-Hackintosh/releases/download/v20210801/AirportItlwm-Catalina-v200-debug-Aug-01.zip)
+- Update Aug-01-2021 - [Big Sur](https://github.com/kwangle912/AirportItlwm-for-Hackintosh/releases/download/v20210801/AirportItlwm-BigSur-v200-debug-Aug-01.zip)
+- Update Aug-01-2021 - [Monterey](https://github.com/kwangle912/AirportItlwm-for-Hackintosh/releases/download/v20210801/AirportItlwm-Monterey-v200-debug-Aug-01.zip)
 
 Stable Version 2.0.0 `Coming soon`
 
 
 Install Heliport.dmg:
-- Only kext Itlwm and Heliport app for Catalina/Big Sur/Monterey - [Download here](https://github.com/kwangle912/AirportItlwm-for-Hackintosh/releases/download/v20210727/itlwm-v200-Heliport-July-27.zip)
+- Only kext Itlwm and Heliport app for Catalina/Big Sur/Monterey - [Download here](https://github.com/kwangle912/AirportItlwm-for-Hackintosh/releases/download/v20210801/itlwm-v200-Heliport-Aug-01.zip)
 * [HeliPort.app](https://github.com/OpenIntelWireless/HeliPort) copy to `Application` and check `Launch At Login`. Don't reboot. Enjoy 🎉
 
 <h2 align="left" >Credits</h2>
