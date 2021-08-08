@@ -92,7 +92,7 @@ Debug Version 2.1.0 `coming soon`
 
 
 Add kext Itlwm and install Heliport.dmg:
-- Only kext Itlwm and Heliport app for Catalina/Big Sur/Monterey - [Download here](https://github.com/kwangle912/AirportItlwm-for-Hackintosh/releases/download/v20210808/itlwm-v200-stable-Heliport.zip)
+- Only kext Itlwm and Heliport app for Catalina/Big Sur/Monterey - [Download here](https://github.com/kwangle912/AirportItlwm-for-Hackintosh/releases/download/v20210808/itlwm-v200-Heliport-stable.zip)
 * [HeliPort.app](https://github.com/OpenIntelWireless/HeliPort) copy to `Application` and check `Launch At Login`. Don't reboot. Enjoy 🎉
 
 <h2 align="left" >Credits</h2>
