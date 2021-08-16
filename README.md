@@ -88,7 +88,10 @@ Stable Version 2.0.0
 - Update Aug-08-2021 - [Big Sur](https://github.com/kwangle912/AirportItlwm-for-Hackintosh/releases/download/v20210808/AirportItlwm-BigSur-v200-stable-Aug-08.zip)
 - Update Aug-08-2021 - [Monterey](https://github.com/kwangle912/AirportItlwm-for-Hackintosh/releases/download/v20210808/AirportItlwm-Monterey-v200-stable-Aug-08.zip)
 
-Debug Version 2.1.0 `coming soon`
+Debug Version 2.1.0
+- Update Aug-16-2021 - [Catalina](https://github.com/kwangle912/AirportItlwm-for-Hackintosh/releases/download/v20210816/AirportItlwm-Catalina-v210-debug-Aug-16.zip)
+- Update Aug-16-2021 - [Big Sur](https://github.com/kwangle912/AirportItlwm-for-Hackintosh/releases/download/v20210816/AirportItlwm-BigSur-v210-debug-Aug-16.zip)
+- Update Aug-16-2021 - [Monterey](https://github.com/kwangle912/AirportItlwm-for-Hackintosh/releases/download/v20210816/AirportItlwm-Monterey-v210-debug-Aug-16.zip)
 
 
 Add kext Itlwm and install Heliport.dmg:
