@@ -89,13 +89,17 @@ Stable Version 2.0.0
 - Update Aug-08-2021 - [Monterey](https://github.com/kwangle912/AirportItlwm-for-Hackintosh/releases/download/v20210808/AirportItlwm-Monterey-v200-stable-Aug-08.zip)
 
 Debug Version 2.1.0
-- Update Nov-11-2021 - [Catalina](https://github.com/kwangle912/AirportItlwm-for-Hackintosh/releases/download/v20211109/AirportItlwm-Catalina-v210-debug-Nov-09.zip)
-- Update Nov-11-2021 - [Big Sur](https://github.com/kwangle912/AirportItlwm-for-Hackintosh/releases/download/v20211109/AirportItlwm-BigSur-v210-debug-Nov-09.zip)
-- Update Nov-11-2021 - [Monterey](https://github.com/kwangle912/AirportItlwm-for-Hackintosh/releases/download/v20211109/AirportItlwm-Monterey-v210-debug-Nov-09.zip)
+- Update Nov-09-2021 - [Catalina](https://github.com/kwangle912/AirportItlwm-for-Hackintosh/releases/download/v20211109/AirportItlwm-Catalina-v210-debug-Nov-09.zip)
+- Update Nov-09-2021 - [Big Sur](https://github.com/kwangle912/AirportItlwm-for-Hackintosh/releases/download/v20211109/AirportItlwm-BigSur-v210-debug-Nov-09.zip)
+- Update Nov-09-2021 - [Monterey](https://github.com/kwangle912/AirportItlwm-for-Hackintosh/releases/download/v20211109/AirportItlwm-Monterey-v210-debug-Nov-09.zip)
+
+Debug Version 2.2.0
+- Update Jan-07-2022 - [Big Sur](https://github.com/kwangle912/AirportItlwm-for-Hackintosh/releases/download/v20220107/AirportItlwm-BigSur-v220-debug-Jan-07.zip)
+- Update Jan-07-2022 - [Monterey](https://github.com/kwangle912/AirportItlwm-for-Hackintosh/releases/download/v20220107/AirportItlwm-Monterey-v220-debug-Jan-07.zip)
 
 
 Add kext Itlwm and install Heliport.dmg:
-- Only kext Itlwm and Heliport app for Catalina/Big Sur/Monterey - [Download here](https://github.com/kwangle912/AirportItlwm-for-Hackintosh/releases/download/v20211109/itlwm-v210-Heliport-Nov-09-2021.zip)
+- Only kext Itlwm and Heliport app for Catalina/Big Sur/Monterey - [Download here](https://github.com/kwangle912/AirportItlwm-for-Hackintosh/releases/download/v20220107/itlwm-v210-Heliport-Jan-07-2022.zip)
 * [HeliPort.app](https://github.com/OpenIntelWireless/HeliPort) copy to `Application` and check `Launch At Login`. Don't reboot. Enjoy 🎉
 
 <h2 align="left" >Credits</h2>
