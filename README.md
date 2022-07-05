@@ -18,7 +18,7 @@ itlwm still needs to be used with [Heliport](https://github.com/OpenIntelWireles
 
 
 ## Intel WiFi Driver for Hackintosh
-<b>Only Big Sur - Catalina - Monterey Beta:</b>
+<b>Only Catalina - Big Sur - Monterey - Ventura Beta</b>
 * [Clover](https://github.com/CloverHackyColor/CloverBootloader/releases): Kext to /EFI/Clover/Kext/Other (unsupported Catalina)
 * Disable SIP and install AirportItlwm into `/Library/Extensions` "With Hackintool" & rebuild kext cache then reboot. (use AirportItlwm Catalina and install [Hackintool.app](https://github.com/headkaze/Hackintool/releases))
 
@@ -31,7 +31,7 @@ The kexts can be installed to `/Library/Extensions` with System Integrity Protec
 * [OpenCore](https://github.com/acidanthera/OpenCorePkg/releases) requires 0.6.1 or higher. Please read OpenCore's Official Document for more details.
 
 Set `SecureBootModel` to `Default` to make sure IO80211Family loads properly.
-* [OpenCore](https://github.com/acidanthera/OpenCorePkg/releases): Kext to /EFI/OC/Kexts (both AirportItlwm Big Sur/Catalina/Monterey Beta)
+* [OpenCore](https://github.com/acidanthera/OpenCorePkg/releases): Kext to /EFI/OC/Kexts (both AirportItlwm Big Sur/Catalina/Monterey/Ventura Beta)
 
 <b>WARNING</b>
 You should NEVER use both `itlwm.kext` and `Airportitlwm.kext` at the same time.
@@ -55,7 +55,7 @@ You should NEVER use both `itlwm.kext` and `Airportitlwm.kext` at the same time.
 - AX: `1650S`
 - AX: `200`, `201`
 - [Supported Devices](https://openintelwireless.github.io/itlwm/Compat.html)
-- Supported macOS: High Sierra 10.13.x, Mojave 10.14.x, Catalina 10.15.x, Big Sur 11.x, Monterey 12.x (Public Beta)
+- Supported macOS: High Sierra 10.13.x, Mojave 10.14.x, Catalina 10.15.x, Big Sur 11.x, Monterey 12.x, Ventura (Dev/Public Beta)
 
 <h2 align="left" >Download kext</h2>
 <br/>
@@ -94,13 +94,13 @@ Debug Version 2.1.0
 - Update Nov-09-2021 - [Monterey](https://github.com/kwangle912/AirportItlwm-for-Hackintosh/releases/download/v20211109/AirportItlwm-Monterey-v210-debug-Nov-09.zip)
 
 Debug Version 2.2.0
-- Update Jun-27-2022 - [Big Sur](https://github.com/kwangle912/AirportItlwm-for-Hackintosh/releases/download/v20220627/AirportItlwm-BigSur-v220-debug-Jun-27.zip)
-- Update Jun-27-2022 - [Monterey](https://github.com/kwangle912/AirportItlwm-for-Hackintosh/releases/download/v20220627/AirportItlwm-Monterey-v220-debug-Jun-27.zip)
-- Update Jun-27-2022 - [Ventura](https://github.com/kwangle912/AirportItlwm-for-Hackintosh/releases/download/v20220627/AirportItlwm-Ventura-v220-debug-Jun-27.zip)
+- Update Jul-05-2022 - [Big Sur](https://github.com/kwangle912/AirportItlwm-for-Hackintosh/releases/download/v20220705/AirportItlwm-BigSur-v220-debug-Jul-05.zip)
+- Update Jul-05-2022 - [Monterey](https://github.com/kwangle912/AirportItlwm-for-Hackintosh/releases/download/v20220705/AirportItlwm-Monterey-v220-debug-Jul-05.zip)
+- Update Jul-05-2022 - [Ventura](https://github.com/kwangle912/AirportItlwm-for-Hackintosh/releases/download/v20220705/AirportItlwm-Ventura-v220-debug-Jul-05.zip)
 
 
 Add kext Itlwm and install Heliport.dmg:
-- Only kext Itlwm and Heliport app for Catalina/Big Sur/Monterey - [Download here](https://github.com/kwangle912/AirportItlwm-for-Hackintosh/releases/download/v20220627/itlwm-v220-Heliport-Jun-27.zip)
+- Only kext Itlwm and Heliport app for Catalina/Big Sur/Monterey/Ventura (Dev/ Public Beta) - [Download here](https://github.com/kwangle912/AirportItlwm-for-Hackintosh/releases/download/v20220705/itlwm-v220-Heliport-Jul-05.zip)
 * [HeliPort.app](https://github.com/OpenIntelWireless/HeliPort) copy to `Application` and check `Launch At Login`. Don't reboot. Enjoy 🎉
 
 <h2 align="left" >Credits</h2>
